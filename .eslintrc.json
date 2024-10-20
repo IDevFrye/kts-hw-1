@@ -34,7 +34,7 @@
         "prefer-destructuring": "warn",
         "prefer-const": "error",
         "prefer-arrow-callback": "error",
-        "prettier/prettier": "error",
+        "prettier/prettier": ["error", { "endOfLine": "crlf" }],
         "react/jsx-uses-react": "error",
         "react/jsx-uses-vars": "error",
         "react/prefer-stateless-function": "error",
